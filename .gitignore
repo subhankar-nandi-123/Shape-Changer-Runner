@@ -1,0 +1,12 @@
+/.utmp
+/Library
+/Logs
+/obj
+/Packages
+/ProjectSettings
+/Temp
+/UserSettings
+/.vsconfig
+/Assembly-CSharp.csproj
+/*.sln
+/.vs/*
